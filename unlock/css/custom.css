@@ -1,0 +1,23 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.container{
+	width: 30%;
+	margin: 0 auto;
+}
+.form-control{
+	margin: 30% 0;
+	padding: 15px;
+	border: 1px solid;
+}
+.form-control input{
+	margin: 3px 0px 3px 18%;
+	padding: 8px;
+	border-radius: 10px;
+	border: 1px solid;
+}
+.form-control h2{
+	text-align: center;
+    padding:10px 0 20px;
+}
